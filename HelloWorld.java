@@ -6,6 +6,6 @@ class HelloWorld {
 	// Prints "Hello Edureka" to the terminal windows
 	public static void main(String args[])
 	{
-		Syatem.out.println("Wlcome to Git's Online Traning!!!");
+		Syatem.out.println("Wlcome to Git's Online java Traning!!!");
 	}
 }	
